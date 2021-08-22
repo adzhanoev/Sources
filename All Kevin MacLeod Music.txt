@@ -1410,7 +1410,7 @@ https://github.com/adzhanoev/Sources/blob/main/All%20Kevin%20MacLeod%20Music.txt
 #1399: Wah Game Loop
 #1400: Walking Along
 #1401: Wallpaper
-#1402: Waltz - Tschikovsky Op. 40
+#1402: Waltz - Tchaikovsky Op. 40
 #1403: Waltz of Treachery FX
 #1404: Waltz of the Carnies
 #1405: Water Droplets on the River
@@ -1419,7 +1419,7 @@ https://github.com/adzhanoev/Sources/blob/main/All%20Kevin%20MacLeod%20Music.txt
 #1408: Waunobe March
 #1409: We Got Trouble
 #1410: We Wish You
-#1411: Welcome to HorrorLand -hi
+#1411: Welcome to HorrorLand
 #1412: Welcome to the Show
 #1413: Wepa
 #1414: Werq
@@ -1428,7 +1428,7 @@ https://github.com/adzhanoev/Sources/blob/main/All%20Kevin%20MacLeod%20Music.txt
 #1417: What Child is This
 #1418: What You Want
 #1419: What You Want ver 2
-#1420: What is Love hi
+#1420: What is Love
 #1421: When The Wind Blows
 #1422: Whimsy Groove
 #1423: Whiskey on the Mississippi
