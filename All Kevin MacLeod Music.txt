@@ -849,8 +849,6 @@ Movement Proposition
 Mr. Mealey's Mediocre Machine
 Music Box Theme
 Music for Funeral Home - Part 1
-Music for Funeral Home - Part 10
-Music for Funeral Home - Part 11
 Music for Funeral Home - Part 2
 Music for Funeral Home - Part 3
 Music for Funeral Home - Part 4
@@ -859,6 +857,8 @@ Music for Funeral Home - Part 6
 Music for Funeral Home - Part 7
 Music for Funeral Home - Part 8
 Music for Funeral Home - Part 9
+Music for Funeral Home - Part 10
+Music for Funeral Home - Part 11
 Music for Manatees
 Music to Delight
 Myst
